@@ -22,6 +22,6 @@ Olá! Eu sou Saymon Cardoso, e este é o meu espaço no GitHub onde compartilho 
 ##
 
 <div> 
-  <a href = "mailto:saymonasilva1357@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:saymonsilva1357@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/saymon-storque-964558214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
